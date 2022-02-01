@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Gustavito il Crick\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Gustavito il Crick\\.nuget\\packages"
+    ]
+  }
+}
